@@ -16,8 +16,12 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-step 1 - git init
+step 1 - git init (one time)
 step 2 - git add .
 step 3 - git commit -m "first commit"
-step 4 - git remote add origin https://github.com/patildarshan66/git-demo-project.git
+step 4 - git remote add origin https://github.com/patildarshan66/git-demo-project.git (one time)
 step 5- git push origin dev
+
+how to clone project
+
+step 1 - git clone https://github.com/patildarshan66/git-demo-project.git
