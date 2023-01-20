@@ -20,7 +20,7 @@ step 1 - git init (one time)
 step 2 - git add .
 step 3 - git commit -m "first commit"
 step 4 - git remote add origin https://github.com/patildarshan66/git-demo-project.git (one time)
-step 5- git push origin dev
+step 5- git push origin  -f master
 
 how to clone project
 
